@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Homer",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/02/Homer_Simpson_2006.png/revision/latest?cb=20091207194310"
+  },
+  {
+    "id": 2,
+    "name": "Marge",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/4/4d/MargeSimpson.png/revision/latest?cb=20180314071936"
+  },
+  {
+    "id": 3,
+    "name": "Bart",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/65/Bart_Simpson.png/revision/latest?cb=20180319061933"
+  },
+  {
+    "id": 4,
+    "name": "Lisa",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/5/57/Lisa_Simpson2.png/revision/latest?cb=20180319000458"
+  },
+  {
+    "id": 5,
+    "name": "Maggie",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/6c/MaggieSimpson.PNG/revision/latest?cb=20180314210204"
+  },
+  {
+    "id": 6,
+    "name": "Mr. Burns",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a7/Montgomery_Burns.png/revision/latest/scale-to-width-down/652?cb=20100602062705"
+  },
+  {
+    "id": 7,
+    "name": "Apu",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/7/7d/Apu_Nahasapeemapetilon.png/revision/latest?cb=20171027210822"
+  },
+  {
+    "id": 8,
+    "name": "Hank Scorpio",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/c/c0/Hank_Scorpio_Tapped_Out.png/revision/latest?cb=20150730035717"
+  },
+  {
+    "id": 9,
+    "name": "Bumblebee Man",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/1/17/Bumblebee_Man.png/revision/latest?cb=20131208162305"
+  },
+  {
+    "id": 10,
+    "name": "Troy McClure",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/f/f7/Troy_McClure.png/revision/latest?cb=20171004211558"
+  },
+  {
+    "id": 11,
+    "name": "Sideshow Bob",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/0a/Robert_Terwilliger_Tapped_Out.png/revision/latest?cb=20171118020924"
+  },
+  {
+    "id": 12,
+    "name": "Krusty",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/e/e5/Krusty_The_Clown.png/revision/latest?cb=20131004191501"
+  }
+  
+]
