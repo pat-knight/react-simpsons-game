@@ -15,7 +15,6 @@ class App extends Component {
 }
 
 
-// try this sort(function(a, b){return 0.5 - Math.random()})
 randomize = array => {
   for (let i = array.length - 1; i > 0; i--) {
       let j = Math.floor(Math.random() * (i + 1));
